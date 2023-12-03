@@ -1,0 +1,1 @@
+web: gunicorn ecc_backend:app
