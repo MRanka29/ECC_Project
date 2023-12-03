@@ -1,1 +1,1 @@
-web: gunicorn ecc_backend:app
+web: gunicorn app:app
